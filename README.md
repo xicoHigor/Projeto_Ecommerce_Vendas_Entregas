@@ -4,7 +4,7 @@ Projeto de análise de vendas desenvolvido no Excel. O objetivo é transformar r
 
 ## Sobre os dados
 
-A base contém 360 vendas fictícias realizadas entre janeiro e dezembro de 2025 por uma rede simulada de cafés e presentes. Cada linha representa uma venda e inclui informações como produto, categoria, cidade, canal, quantidade, preço e percentual de desconto.
+A base contém 480 vendas fictícias realizadas entre janeiro e dezembro de 2025 por uma rede simulada de cafés e presentes. Cada linha representa uma venda e inclui informações como produto, categoria, cidade, canal, quantidade, preço e percentual de desconto.
 
 ## Análises realizadas
 
