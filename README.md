@@ -18,13 +18,13 @@ A base contém 360 vendas fictícias realizadas entre janeiro e dezembro de 2025
 
 | Indicador | Resultado |
 |---|---:|
-| Vendas | 360 |
-| Unidades vendidas | 693 |
-| Faturamento bruto | R$ 27.605,70 |
-| Descontos concedidos | R$ 1.780,39 |
-| Faturamento líquido | R$ 25.825,31 |
-| Ticket médio líquido | R$ 71,74 |
-| Desconto efetivo sobre o faturamento bruto | 6,45% |
+| Vendas
+| Unidades vendidas 
+| Faturamento bruto
+| Descontos concedidos 
+| Faturamento líquido 
+| Ticket médio líquido 
+| Desconto efetivo sobre o faturamento bruto 
 
 ## Destaque: desconto e ticket médio
 
